@@ -1,4 +1,4 @@
-# EReminder-App
+# EReminder App
 Owner of simple and rich reminder that is build with Realm database.
 
 ### iOS side of the App ###
