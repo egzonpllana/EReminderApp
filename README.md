@@ -9,6 +9,7 @@ Owner of simple and rich reminder that is build with Realm database.
 - Services like RealmService or UNUserNotificationService
 - MVC Design Pattern
 - Fastlane
+- Swift 5
 
 ### App Store: ###
 https://apps.apple.com/app/ereminder-app/id1506049485
