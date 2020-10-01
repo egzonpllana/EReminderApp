@@ -1,5 +1,5 @@
 # EReminder App
-Simple and rich reminder that is build with Realm database.
+Never forget anything, again!
 
 ## What's inside ## 
 - Reminders being synced with your Apple Calendar on your iPhone, macOS, and WatchOS.
