@@ -25,10 +25,7 @@ Never forget anything, again!
 
 ## Pods ##
 - RealmSwift
-- ViewAnimator
 - SwiftLint
-- CropViewController
-- gooey-cell
 - liquid-swipe
 - Firebase/Analytics
 - Firebase/Crashlytics
