@@ -1,6 +1,8 @@
 # EReminder App
 Never forget anything, again!
 
+![app-preview](https://user-images.githubusercontent.com/27929436/99557328-da6e7b80-29c2-11eb-9580-0949be66df07.png)
+
 ## What's inside ## 
 - Reminders being synced with your Apple Calendar on your iPhone, macOS, and WatchOS.
 - Get notification right in time or get notified earlier,
@@ -34,9 +36,3 @@ Never forget anything, again!
 
 ## App Store: ##
 https://apps.apple.com/app/ereminder-app/id1506049485
-
-## Previews ##
-![1](https://user-images.githubusercontent.com/27929436/94802304-b2619380-03e7-11eb-80e2-f3574fbf1c9e.jpg)
-![1-2](https://user-images.githubusercontent.com/27929436/94802374-d3c27f80-03e7-11eb-9698-a8a82b872b85.jpg)
-![1-3](https://user-images.githubusercontent.com/27929436/94802088-5139c000-03e7-11eb-9110-98985edfa69b.jpg)
-![1-4](https://user-images.githubusercontent.com/27929436/94802087-50a12980-03e7-11eb-8cfb-b3809e8934cf.jpg)
