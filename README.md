@@ -1,6 +1,6 @@
 # Reminder - Smart Schedule
 
-## Download ##
+#### Download
 https://apps.apple.com/app/ereminder-app/id1506049485
 
 ![app-preview](https://github.com/egzonpllana/EReminderApp/assets/27929436/12df2480-74ea-421b-8f83-2c42db10498f)
