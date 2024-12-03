@@ -1,9 +1,10 @@
 # Reminder - Smart Schedule
 
-#### Download
-https://apps.apple.com/app/ereminder-app/id1506049485
+## Support
+[contact.ereminderapp@gmail.com](mailto:contact.ereminderapp@gmail.com)
 
-![app-preview](https://github.com/egzonpllana/EReminderApp/assets/27929436/12df2480-74ea-421b-8f83-2c42db10498f)
+
+![preview](https://github.com/user-attachments/assets/7bee28f7-94db-490e-b8e6-ed1e9ae1fec8)
 
 ## About the app ##
 "Reminder - Smart Schedule" is a powerful and intuitive reminder app designed to help you stay organized and on top of your tasks. With its user-friendly interface and comprehensive features, this app is the ultimate solution for those who often forget essential events or to-dos.
@@ -25,17 +26,13 @@ Don't let forgetfulness hinder your productivity and peace of mind. Download "Re
 
 ## Architecture ##
 
-- Dependency Injection, Pure Swift Protocol Oriented
-- Component-based
-- Storyboardable
-- Services like RealmService or UserNotificationService
-- MVC
-- Swift 5.8
-
-## Pods ##
-- RealmSwift
-- SwiftLint
-- Firebase
+- SwiftUI
+- async-await
+- Protocol Oriented Programming
+- Swift 6
+- Core Data
+- Local Notifications
+- Advanced Readable Date Parser
 
 ## App Store: ##
 https://apps.apple.com/app/ereminder-app/id1506049485
