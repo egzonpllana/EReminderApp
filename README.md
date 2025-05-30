@@ -1,8 +1,10 @@
 # Reminder - Smart Schedule
 
+## App Store: ##
+https://apps.apple.com/app/ereminder-app/id1506049485
+
 ## Support
 [contact.ereminderapp@gmail.com](mailto:contact.ereminderapp@gmail.com)
-
 
 ![preview](https://github.com/user-attachments/assets/7bee28f7-94db-490e-b8e6-ed1e9ae1fec8)
 
@@ -33,6 +35,3 @@ Don't let forgetfulness hinder your productivity and peace of mind. Download "Re
 - Core Data
 - Local Notifications
 - Advanced Readable Date Parser
-
-## App Store: ##
-https://apps.apple.com/app/ereminder-app/id1506049485
